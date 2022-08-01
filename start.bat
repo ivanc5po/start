@@ -1,1 +1,1 @@
-python3 kkk.py
+python3 "C:\Users\ShaowMan\Desktop\robot X\kkk.py"
